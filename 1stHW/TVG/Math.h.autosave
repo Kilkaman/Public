@@ -1,0 +1,39 @@
+#ifndef MATH_H
+#define MATH_H
+#include <QObject>
+#include <QThread>
+#include <QTimer>
+#include <QTime>
+#include <QXmlStreamWriter>
+#include <QXmlStreamReader>
+#include <QXmlStreamAttribute>
+#include <QMessageBox>
+
+class Math : public QObject
+{
+    Q_OBJECT
+
+public:
+
+    explicit Math(QObject *parent = 0);
+
+    ~Math();
+
+
+ private:
+
+
+ signals:
+
+  
+
+
+ private slots:
+
+ void UpdateLCD_in(QByteArray mass, int size, int n );
+    
+};
+
+
+
+#endif // MATH_H

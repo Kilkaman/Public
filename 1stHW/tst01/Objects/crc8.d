@@ -1,0 +1,9 @@
+.\objects\crc8.o: src\CRC8.c
+.\objects\crc8.o: .\inc\stm32f10x.h
+.\objects\crc8.o: .\inc\core_cm3.h
+.\objects\crc8.o: E:\keil\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\crc8.o: .\inc\core_cmInstr.h
+.\objects\crc8.o: .\inc\core_cmFunc.h
+.\objects\crc8.o: .\inc\system_stm32f10x.h
+.\objects\crc8.o: .\inc\core_cm3.h
+.\objects\crc8.o: .\inc\global_var_def.h

@@ -1,0 +1,9 @@
+.\objects\dma.o: src\DMA.c
+.\objects\dma.o: .\inc\stm32f10x.h
+.\objects\dma.o: .\inc\core_cm3.h
+.\objects\dma.o: E:\keil\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\dma.o: .\inc\core_cmInstr.h
+.\objects\dma.o: .\inc\core_cmFunc.h
+.\objects\dma.o: .\inc\system_stm32f10x.h
+.\objects\dma.o: .\inc\core_cm3.h
+.\objects\dma.o: .\inc\global_var_def.h
