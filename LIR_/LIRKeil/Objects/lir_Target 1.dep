@@ -1,0 +1,30 @@
+Dependencies for Project 'lir', Target 'Target 1': (DO NOT MODIFY !)
+F (.\src\startup_MDR32F9Qx.s)(0x58EF3F9C)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\_Target_1-ID:\keil\ARM\CMSIS\Include-ILibraries\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc--pd "__UVISION_VERSION SETA 524"--list .\listings\startup_mdr32f9qx.lst --xref -o .\objects\startup_mdr32f9qx.o --depend .\objects\startup_mdr32f9qx.d)
+F (.\src\main.c)(0x61DD8A78)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ./inc-I.\RTE\_Target_1-ID:\keil\ARM\CMSIS\Include-ILibraries\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc-D__UVISION_VERSION="524"-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (./inc/MDR32Fx.h)(0x5332F864)
+I (./inc/core_cm3.h)(0x559E835E)
+I (D:\keil\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (./inc/core_cmInstr.h)(0x559E835E)
+I (./inc/core_cmFunc.h)(0x559E835E)
+I (./inc/global_var_def.h)(0x61E11E44)
+F (.\src\timer.c)(0x61E031AA)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ./inc-I.\RTE\_Target_1-ID:\keil\ARM\CMSIS\Include-ILibraries\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc-D__UVISION_VERSION="524"-o .\objects\timer.o --omf_browse .\objects\timer.crf --depend .\objects\timer.d)
+I (./inc/MDR32Fx.h)(0x5332F864)
+I (./inc/core_cm3.h)(0x559E835E)
+I (D:\keil\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (./inc/core_cmInstr.h)(0x559E835E)
+I (./inc/core_cmFunc.h)(0x559E835E)
+I (./inc/global_var_def.h)(0x61E11E44)
+F (.\src\uart.c)(0x623F3002)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ./inc-I.\RTE\_Target_1-ID:\keil\ARM\CMSIS\Include-ILibraries\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc-D__UVISION_VERSION="524"-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (./inc/MDR32Fx.h)(0x5332F864)
+I (./inc/core_cm3.h)(0x559E835E)
+I (D:\keil\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (./inc/core_cmInstr.h)(0x559E835E)
+I (./inc/core_cmFunc.h)(0x559E835E)
+I (./inc/global_var_def.h)(0x61E11E44)
+F (.\src\ssp.c)(0x61E14962)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ./inc-I.\RTE\_Target_1-ID:\keil\ARM\CMSIS\Include-ILibraries\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc-D__UVISION_VERSION="524"-o .\objects\ssp.o --omf_browse .\objects\ssp.crf --depend .\objects\ssp.d)
+I (./inc/MDR32Fx.h)(0x5332F864)
+I (./inc/core_cm3.h)(0x559E835E)
+I (D:\keil\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (./inc/core_cmInstr.h)(0x559E835E)
+I (./inc/core_cmFunc.h)(0x559E835E)
+I (./inc/global_var_def.h)(0x61E11E44)
