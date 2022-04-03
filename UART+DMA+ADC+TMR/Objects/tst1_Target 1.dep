@@ -1,0 +1,50 @@
+Dependencies for Project 'tst1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\src\main.c)(0x6249E57D)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc-I.\RTE\_Target_1-ID:\keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\keil\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (.\inc\stm32f10x.h)(0x4BD14EE4)
+I (.\inc\core_cm3.h)(0x5DF78DF6)
+I (D:\keil\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\inc\core_cmInstr.h)(0x559E835E)
+I (.\inc\core_cmFunc.h)(0x559E835E)
+I (.\inc\system_stm32f10x.h)(0x4BD14EE6)
+I (.\inc\global_var_def.h)(0x6207C8D2)
+F (.\src\startup_stm32f10x_md.s)(0x614C5E8E)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-ID:\keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\keil\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 524" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
+F (.\src\Uart.c)(0x6249E9DF)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc-I.\RTE\_Target_1-ID:\keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\keil\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (.\inc\stm32f10x.h)(0x4BD14EE4)
+I (.\inc\core_cm3.h)(0x5DF78DF6)
+I (D:\keil\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\inc\core_cmInstr.h)(0x559E835E)
+I (.\inc\core_cmFunc.h)(0x559E835E)
+I (.\inc\system_stm32f10x.h)(0x4BD14EE6)
+I (.\inc\global_var_def.h)(0x6207C8D2)
+F (.\src\CRC8.c)(0x61B34542)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc-I.\RTE\_Target_1-ID:\keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\keil\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD-o .\objects\crc8.o --omf_browse .\objects\crc8.crf --depend .\objects\crc8.d)
+I (.\inc\stm32f10x.h)(0x4BD14EE4)
+I (.\inc\core_cm3.h)(0x5DF78DF6)
+I (D:\keil\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\inc\core_cmInstr.h)(0x559E835E)
+I (.\inc\core_cmFunc.h)(0x559E835E)
+I (.\inc\system_stm32f10x.h)(0x4BD14EE6)
+I (.\inc\global_var_def.h)(0x6207C8D2)
+F (.\src\DMA.c)(0x6249E91F)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc-I.\RTE\_Target_1-ID:\keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\keil\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD-o .\objects\dma.o --omf_browse .\objects\dma.crf --depend .\objects\dma.d)
+I (.\inc\stm32f10x.h)(0x4BD14EE4)
+I (.\inc\core_cm3.h)(0x5DF78DF6)
+I (D:\keil\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\inc\core_cmInstr.h)(0x559E835E)
+I (.\inc\core_cmFunc.h)(0x559E835E)
+I (.\inc\system_stm32f10x.h)(0x4BD14EE6)
+I (.\inc\global_var_def.h)(0x6207C8D2)
+F (.\src\ADC.c)(0x6249E920)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc-I.\RTE\_Target_1-ID:\keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\keil\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD-o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
+I (.\inc\stm32f10x.h)(0x4BD14EE4)
+I (.\inc\core_cm3.h)(0x5DF78DF6)
+I (D:\keil\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\inc\core_cmInstr.h)(0x559E835E)
+I (.\inc\core_cmFunc.h)(0x559E835E)
+I (.\inc\system_stm32f10x.h)(0x4BD14EE6)
+I (.\inc\global_var_def.h)(0x6207C8D2)
+F (.\src\Tmr.c)(0x6249E920)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\inc-I.\RTE\_Target_1-ID:\keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\keil\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD-o .\objects\tmr.o --omf_browse .\objects\tmr.crf --depend .\objects\tmr.d)
+I (.\inc\stm32f10x.h)(0x4BD14EE4)
+I (.\inc\core_cm3.h)(0x5DF78DF6)
+I (D:\keil\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\inc\core_cmInstr.h)(0x559E835E)
+I (.\inc\core_cmFunc.h)(0x559E835E)
+I (.\inc\system_stm32f10x.h)(0x4BD14EE6)
+I (.\inc\global_var_def.h)(0x6207C8D2)
